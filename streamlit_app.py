@@ -1,3 +1,3 @@
 import streamlit
 
-streakmlit.titel("Hallo Welt!")
+streakmlit.title("Hallo Welt!")
